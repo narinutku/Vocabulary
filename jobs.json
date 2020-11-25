@@ -1,752 +1,644 @@
 [
-  {
-    "word": "actor",
-    "definition": "a person who acts and gets things done",
-    "partOfSpeech": "noun",
-    "synonyms": "role player",
-
-    
-  },
-  {
-    "word": "actress",
-    "definition": "a female actor",
-    "partOfSpeech": "noun",
-    "synonyms": "role player",
-   
-  },
-  {
-    "word": "architect",
-    "definition": "someone who creates plans to be used in making something (such as building)",
-    "partOfSpeech": "noun",
-    "synonyms": "designer",
-    
-  },
-  {
-    "word": "army",
-    "definition": "a permanent organization of the military land forces of a nation or state",
-    "partOfSpeech": "noun",
-    "synonyms": "ground forces",
-    
-  },
-  {
-    "word": "artist",
-    "definition": "a person whose creative work shows sensitivity and imagination",
-    "partOfSpeech": "noun",
-    "synonyms": "creative person",
-   
-  },
-  {
-    "word": "assistant",
-    "definition": "a person who contributes to the fulfillment of a need or furtherance of an effort or purpose",
-    "partOfSpeech": "noun",
-    "synonyms": "helper/supporter",
-  },
-  {
-    "word": "athlete",
-    "definition": "a person trained to compete in sports",
-    "partOfSpeech": "noun",
-    "synonyms": "jock",
-    
-  },
-  {
-    "word": "babysitter",
-    "definition": "a person engaged to care for children when the parents are not home",
-    "partOfSpeech": "noun",
-    "synonyms": "sitter",
-    
-  },
-  {
-     "word": "banker",
-    "definition": "a financier who owns or is an executive in a bank",
-    "partOfSpeech": "noun",
-    "synonyms": "moneyman",
-    
-  },
-  {
-     "word": "boss",
-    "definition": "a person who exercises control and makes decisions",
-    "partOfSpeech": "noun",
-    "synonyms": "leader",
-    
-  },
-  {
-     "word": "break",
-    "definition": "a pause from doing something (as work)",
-    "partOfSpeech": "noun",
-    "synonyms": "time out",
-    
-  },
-  {
-     "word": "butcher",
-    "definition": "a person who slaughters or dresses meat for market",
-    "partOfSpeech": "noun",
-    "synonyms": "slaughterer",
-    
-  },
-  {
-     "word": "canteen",
-    "definition": "sells food and personal items to personnel at an institution or school or camp etc.",
-    "partOfSpeech": "Karbonhidrat: 23 gram",
-    "synonyms": "store/shop",
-    
-  },
-  {
-     "word": "captain",
-    "definition": "an officer who is licensed to command a merchant ship",
-    "partOfSpeech": "noun",
-    "synonyms": "skipper",
-    
-  },
-  {
-     "word": "career",
-    "definition": "the general progression of your working or professional life",
-    "partOfSpeech": "noun",
-    "synonyms": "life history",
-    
-  },
-  {
-     "word": "chef",
-    "definition": "a professional cook",
-    "partOfSpeech": "noun",
-    "synonyms": "hasInstances:madam curie",
-    
-  },
-  {
-     "word": "chemist",
-    "definition": "a scientist who specializes in chemistry",
-    "partOfSpeech": "Karbonhidrat: 23 gram",
-    "synonyms": "Protein: 1.1 gram",
-    
-  },
-  {
-     "word": "Muz",
-    "definition": "77 Kilokalori",
-    "partOfSpeech": "Karbonhidrat: 23 gram",
-    "synonyms": "Protein: 1.1 gram",
-    
-  },
-  {
-     "word": "cleaner",
-    "definition": "a preparation used in cleaning something",
-    "partOfSpeech": "noun",
-    "synonyms": "cleanser",
-    
-  },
-  {
-     "word": "colleague",
-    "definition": "an associate that one works with",
-    "partOfSpeech": "noun",
-    "synonyms": "workfellow",
-    
-  },
-  {
-     "word": "computer",
-    "definition": "a machine for performing calculations automatically",
-    "partOfSpeech": "noun",
-    "synonyms": "data processor",
-    
-  },
-  {
-     "word": "conference",
-    "definition": "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
-    "partOfSpeech": "noun",
-    "synonyms": "meeting",
-    
-  },
-  {
-     "word": "crew",
-    "definition": "the men and women who man a vehicle (ship, aircraft, etc.)",
-    "partOfSpeech": "noun",
-    "synonyms": "squad/team",
-    
-  },
-  {
-     "word": "cv",
-    "definition": "a summary of your academic and work history",
-    "partOfSpeech": "noun",
-    "synonyms": "curriculum vitae",
-    
-  },
-  {
-     "word": "dancer",
-    "definition": "a performer who dances professionally",
-    "partOfSpeech": "noun",
-    "synonyms": " ",
-    
-  },
-  {
-     "word": "dentist",
-    "definition": "a person qualified to practice dentistry",
-    "partOfSpeech": "noun",
-    "synonyms": "tooth doctor",
-    
-  },
-  {
-     "word": "department",
-    "definition": "a specialized division of a large organization",
-    "partOfSpeech": "noun",
-    "synonyms": "section",
-    
-  },
-  {
-     "word": "detective",
-    "definition": "an investigator engaged or employed in obtaining information not easily available to the public",
-    "partOfSpeech": "noun",
-    "synonyms": "Sherlock Holmes",
-    
-  },
-  {
-     "word": "diary",
-    "definition": "a daily written record of (usually personal) experiences and observations",
-    "partOfSpeech": "noun",
-    "synonyms": "journal",
-    
-  },
-  {
-     "word": "director",
-    "definition": "the person who directs the making of a film",
-    "partOfSpeech": "noun",
-    "synonyms": "Quentin Tarantino",
-    
-  },
-  {
-     "word": "diver",
-    "definition": "someone who works underwater",
-    "partOfSpeech": "noun",
-    "synonyms": "frogman",
-    
-  },
-  {
-     "word": "doctor",
-    "definition": "a licensed medical practitioner",
-    "partOfSpeech": "noun",
-    "synonyms": "medico",
-    
-  },
-  {
-     "word": "earn",
-    "definition": "obtain (money) in return for labour or services.",
-    "partOfSpeech": "verb",
-    "synonyms": "gain",
-    
-  },
-  {
-     "word": "employee",
-    "definition": "a worker who is hired to perform a job",
-    "partOfSpeech": "noun",
-    "synonyms": "worker",
-    
-  },
-  {
-     "word": "employer",
-    "definition": "a person or firm that employs workers",
-    "partOfSpeech": "noun",
-    "synonyms": "hirer",
-    
-  },
-  {
-     "word": "employment",
-    "definition": "the act of giving someone a job",
-    "partOfSpeech": "noun",
-    "synonyms": "engagement",
-    
-  },
-  {
-     "word": "engineer",
-    "definition": "a person who uses scientific knowledge to solve practical problems",
-    "partOfSpeech": "noun",
-    "synonyms": "applied scientist",
-    
-  },
-  {
-     "word": "explorer",
-    "definition": "someone who travels into little known regions (especially for some scientific purpose)",
-    "partOfSpeech": "noun",
-    "synonyms": "adventurer",
-    
-  },
-  {
-     "word": "factory",
-    "definition": "a plant consisting of one or more buildings with facilities for manufacturing",
-    "partOfSpeech": "noun",
-    "synonyms": "manufacturing plant",
-    
-  },
-  {
-     "word": "farm",
-    "definition": "cultivate by growing, often involving improvements by means of agricultural techniques",
-    "partOfSpeech": "verb",
-    "synonyms": "inCategory:agriculture,farming,husbandry" ,         
-  },
-  {
-     "word": "farmer",
-    "definition": "a person who operates a farm",
-    "partOfSpeech": "noun",
-    "synonyms": "husbandman",
-    
-  },
-  {
-     "word": "fireman",
-    "definition": "a member of a fire department who tries to extinguish fires",
-    "partOfSpeech": "noun",
-    "synonyms": "firefighter",
-    
-  },
-  {
-     "word": "guard",
-    "definition": "a person who keeps watch over something or someone",
-    "partOfSpeech": "noun",
-    "synonyms": "protector",
-    
-  },
-  {
-     "word": "guest",
-    "definition": "a visitor to whom hospitality is extended",
-    "partOfSpeech": "noun",
-    "synonyms": "invitee",
-    
-  },
-  {
-     "word": "guide",
-    "definition": "someone who can find paths through unexplored territory",
-    "partOfSpeech": "noun",
-    "synonyms": "pathfinder/scout",
-    
-  },
-  {
-     "word": "company",
-    "definition": "an institution created to conduct business",
-    "partOfSpeech": "noun",
-    "synonyms": "establishment",
-    
-  },
-  {
-     "word": "instructor",
-    "definition": "a person whose occupation is teaching",
-    "partOfSpeech": "noun",
-    "synonyms": "teacher",
-    
-  },
-  {
-     "word": "job",
-    "definition": "a specific piece of work required to be done as a duty or for a specific fee",
-    "partOfSpeech": "noun",
-    "synonyms": "task/duty",
-    
-  },
-  {
-     "word": "journalist",
-    "definition": "a writer for newspapers and magazines",
-    "partOfSpeech": "noun",
-    "synonyms": "gazetteer",
-    
-  },
-  {
-     "word": "judge",
-    "definition": "a public officer appointed to decide cases in a law court",
-    "partOfSpeech": "noun",
-    "synonyms": "justice",
-    
-  },
-  {
-     "word": "king",
-    "definition": "a male sovereign; ruler of a kingdom",
-    "partOfSpeech": "noun",
-    "synonyms": "rex",
-    
-  },
-  {
-     "word": "laboratory",
-    "definition": "a building, part of a building, or other place equipped to conduct scientific experiments, tests, investigations, etc., or to manufacture chemicals, medicines, or the like.",
-    "partOfSpeech": "noun",
-    "synonyms": "testing ground",
-    
-  },
-  {
-     "word": "lawyer",
-    "definition": "a professional person authorized to practice law; conducts lawsuits or gives legal advice",
-    "partOfSpeech": "noun",
-    "synonyms": "attorney",
-    
-  },
-  {
-     "word": "letter",
-    "definition": "a written message addressed to a person or organization",
-    "partOfSpeech": "noun",
-    "synonyms": "missive",
-    
-  },
-  {
-     "word": "manager",
-    "definition": "(sports) someone in charge of training an athlete or a team",
-    "partOfSpeech": "noun",
-    "synonyms": "coach/handler",
-    
-  },
-  {
-     "word": "mechanic",
-    "definition": "someone whose occupation is repairing and maintaining automobiles",
-    "partOfSpeech": "noun",
-    "synonyms": "repairman/service man",
-    
-  },
-  {
-     "word": "meeting",
-    "definition": "an assembly of people for a particular purpose, especially for formal discussion.",
-    "partOfSpeech": "noun",
-    "synonyms": "coming together",
-    
-  },
-  {
-     "word": "message",
-    "definition": "what a communication that is about something is about",
-    "partOfSpeech": "noun",
-    "synonyms": "content/substance",
-    
-  },
-  {
-     "word": "model",
-    "definition": "a person who poses for a photographer or painter or sculptor",
-    "partOfSpeech": "noun",
-    "synonyms": "poser",
-    
-  },
-  {
-     "word": "musician",
-    "definition": "someone who plays a musical instrument (as a profession)",
-    "partOfSpeech": "noun",
-    "synonyms": "instrumentalist/performer",
-    
-  },
-  {
-     "word": "novelist",
-    "definition": "one who writes novels",
-    "partOfSpeech": "noun",
-    "synonyms": "author/writer",
-    
-  },
-  {
-     "word": "nurse",
-    "definition": "one skilled in caring for young children or the sick (usually under the supervision of a doctor)",
-    "partOfSpeech": "noun",
-    "synonyms": "Example:Florence Nightingale",
-    
-  },
-  {
-     "word": "occupation",
-    "definition": "the principal activity in your life that you do to earn money",
-    "partOfSpeech": "noun",
-    "synonyms": "business/job/line of work",
-    
-  },
-  {
-     "word": "officer",
-    "definition": "a person holding a position of authority, especially one with a commission, in the armed services, the mercantile marine, or on a passenger ship.",
-    "partOfSpeech": "noun",
-    "synonyms": "military officer",
-    
-  },
-  {
-     "word": "idle",
-    "definition": "not having a job",
-    "partOfSpeech": "adjective",
-    "synonyms": "jobless/out of work",
-    
-  },
-  {
-     "word": "owner",
-    "definition": "a person who owns something",
-    "partOfSpeech": "noun",
-    "synonyms": "possesor",
-    
-  },
-  {
-     "word": "painter",
-    "definition": "an artist who paints pictures.",
-    "partOfSpeech": "noun",
-    "synonyms": "Example:Vincent van Gogh",
-    
-  },
-  {
-     "word": "parttime",
-    "definition": "involving less than the standard or customary time for an activity",
-    "partOfSpeech": "adjective",
-    "synonyms": "half time job",
-    
-  },
-  {
-     "word": "poet",
-    "definition": "a person possessing special powers of imagination or expression",
-    "partOfSpeech": "noun",
-    "synonyms": "William Shakespeare",
-    
-  },
-  {
-     "word": "politician",
-    "definition": "a person who is professionally involved in politics, especially as a holder of an elected office.",
-    "partOfSpeech": "noun",
-    "synonyms": "Member of Parliament",
-    
-  },
-  {
-     "word": "postman",
-    "definition": "a man who delivers the mail",
-    "partOfSpeech": "noun",
-    "synonyms": "mailman",
-    
-  },
-  {
-     "word": "president",
-    "definition": "the elected head of a republic",
-    "partOfSpeech": "noun",
-    "synonyms": "Donald Trump",
-    
-  },
-  {
-     "word": "profession",
-    "definition": "an occupation requiring special education (especially in the liberal arts or sciences)",
-    "partOfSpeech": "noun",
-    "synonyms": "Has types:journalism,architecture, politics, literature,  education,  engineering, learned profession"
-    
-  },
-  {
-     "word": "professional",
-    "definition": "a person engaged in one of the learned professions",
-    "partOfSpeech": "noun",
-    "synonyms": "professional person",
-    
-  },
-  {
-     "word": "company",
-    "definition": "an institution created to conduct business",
-    "partOfSpeech": "noun",
-    "synonyms": "establishment",
-    
-  },
-  {
-     "word": "professor",
-    "definition": "a university academic of the highest rank; the holder of a university chair.",
-    "partOfSpeech": "noun",
-    "synonyms": "prof",
-    
-  },
-  {
-     "word": "programmer",
-    "definition": "a person who designs and writes and tests computer programs",
-    "partOfSpeech": "noun",
-    "synonyms": "software engineer",
-    
-  },
-  {
-     "word": "publisher",
-    "definition": "a firm in the publishing business",
-    "partOfSpeech": "noun",
-    "synonyms": "publishing house",
-    
-  },
-  {
-     "word": "qualification",
-    "definition": "an ability, characteristic, or experience that makes you suitable for a particular job or activity",
-    "partOfSpeech": "noun",
-    "synonyms": " derivation:qualify ",
-    
-  },
-  {
-     "word": "queen",
-    "definition": "a female sovereign ruler",
-    "partOfSpeech": "noun",
-    "synonyms": "II. Elizabeth",
-    
-  },
-  {
-     "word": "quit",
-    "definition": "put an end to a state or an activity",
-    "partOfSpeech": "verb",
-    "synonyms": "cease/stop/give up",
-    
-  },
-  {
-     "word": "receptionist",
-    "definition": "a secretary whose main duty is to answer the telephone and receive visitors(Especially works in hotel)",
-    "partOfSpeech": "noun",
-    "synonyms": "secretarial assistant",
-    
-  },
-  {
-     "word": "reporter",
-    "definition": "a person who investigates and reports or edits news stories",
-    "partOfSpeech": "noun",
-    "synonyms": "newsman newsperson",
-    
-  },
-  {
-     "word": "retire",
-    "definition": "leave one's job and cease to work, typically on reaching the normal age for leaving service.",
-    "partOfSpeech": "verb",
-    "synonyms": "step down/resign",
-    
-  },
-  {
-     "word": "retirement",
-    "definition": "withdrawal for prayer and study and meditation/",
-    "partOfSpeech": "noun",
-    "synonyms": "the state of being retired from one's business or occupation",
-    
-  },
-  {
-     "word": "sailor",
-    "definition": "any member of a ship's crew",
-    "partOfSpeech": "noun",
-    "synonyms": "crewman",
-    
-  },
-  {
-     "word": "salary",
-    "definition": "a fixed regular payment, typically paid on a monthly basis but often expressed as an annual sum, made by an employer to an employee, especially a professional or white-collar worker.",
-    "partOfSpeech": "noun",
-    "synonyms": "earning/wage",
-    
-  },
-  {
-     "word": "scientist",
-    "definition": "a person with advanced knowledge of one or more sciences",
-    "partOfSpeech": "noun",
-    "synonyms": "Has types:biologist,chemist,geologist",
-    
-  },
-  {
-     "word": "secretary",
-    "definition": "a person employed by an individual or in an office to assist with correspondence, make appointments, and carry out administrative tasks.",
-    "partOfSpeech": "noun",
-    "synonyms": "helper/assistant",
-    
-  },
-  {
-     "word": "shopper",
-    "definition": "a person who is shopping.",
-    "partOfSpeech": "noun",
-    "synonyms": "customer",
-    
-  },
-  {
-     "word": "singer",
-    "definition": "a person who sings",
-    "partOfSpeech": "noun",
-    "synonyms": "Tarkan",
-    
-  },
-  {
-     "word": "solider",
-    "definition": "an enlisted man or woman who serves in an army",
-    "partOfSpeech": "noun",
-    "synonyms": "has Types:  paratrooper, peacekeeper,cavalryman,infantryman,janissary, pistoleer,color bearer"
-    
-  },
-  {
-     "word": "staff",
-    "definition": "all the people employed by a particular organization.",
-    "partOfSpeech": "noun",
-    "synonyms": "employees",
-    
-  },
-  {
-     "word": "student",
-    "definition": "a learner who is enrolled in an educational institution",
-    "partOfSpeech": "noun",
-    "synonyms": "pupil",
-    
-  },
-  {
-     "word": "teacher",
-    "definition": "a person whose occupation is teaching",
-    "partOfSpeech": "noun",
-    "synonyms": "instructor",
-    
-  },
-  {
-     "word": "trade",
-    "definition": "the action of buying and selling goods and services.",
-    "partOfSpeech": "noun",
-    "synonyms": "exchange (something) for something else, typically as a commercial transaction.",
-    
-  },
-  {
-     "word": "travelagent",
-    "definition": "someone who sells or arranges trips or tours for customers",
-    "partOfSpeech": "noun",
-    "synonyms": "Setur/Ets tour",
-    
-  },
-  {
-     "word": "unemployed",
-    "definition": "(of a person) without a paid job but available to work.",
-    "partOfSpeech": "adjective",
-    "synonyms": "jobless",
-    
-  },
-  {
-     "word": "uniform",
-    "definition": "the distinctive clothing worn by members of the same organization or body or by children attending certain schools.",
-    "partOfSpeech": "noun",
-    "synonyms": "derivation: uniformity",
-    
-  },
-  {
-     "word": "wage",
-    "definition": "a fixed regular payment earned for work or services, typically paid on a daily or weekly basis.",
-    "partOfSpeech": "noun",
-    "synonyms": "salary/payment",
-    
-  },
-  {
-     "word": "waiter",
-    "definition": "a person whose occupation is to serve at table (as in a restaurant)",
-    "partOfSpeech": "noun",
-    "synonyms": "server",
-    
-  },
-  {
-     "word": "plumber",
-    "definition": "a person who fits and repairs the pipes, fittings, and other apparatus of water supply, sanitation, or heating systems.",
-    "partOfSpeech": "noun",
-    "synonyms": "Super Mario",
-    
-  },
-  {
-     "word": "vet",
-    "definition": "a doctor who practices veterinary medicine",
-    "partOfSpeech": "noun",
-    "synonyms": "crewman",
-    
-  },
-  {
-     "word": "interview",
-    "definition": "a meeting of people face to face, especially for consultation.",
-    "partOfSpeech": "noun",
-    "synonyms": "have a discussion with/have a dialogue with",
-    
-  },
-  {
-     "word": "promotion",
-    "definition": "activity that supports or encourages a cause, venture, or aim.",
-    "partOfSpeech": "noun",
-    "synonyms": "encouragement/furtherance",
-    
-  },
-  {
-     "word": "strike",
-    "definition": "a refusal to work organized by a body of employees as a form of protest, typically in an attempt to gain a concession or concessions from their employer.",
-    "partOfSpeech": "noun",
-    "synonyms": "work stoppage",
-    
-  },
-  {
-     "word": "intern",
-    "definition": "A student or recent graduate who works for a period of time in order to gain practical experience.",
-    "partOfSpeech": "noun",
-    "synonyms": "medical intern",
-    
-  }
- 
-  
+   {
+      "word":"actor",
+      "definition":"a person who acts and gets things done",
+      "partOfSpeech":"noun",
+      "synonyms":"role player"
+   },
+   {
+      "word":"actress",
+      "definition":"a female actor",
+      "partOfSpeech":"noun",
+      "synonyms":"role player"
+   },
+   {
+      "word":"architect",
+      "definition":"someone who creates plans to be used in making something (such as building)",
+      "partOfSpeech":"noun",
+      "synonyms":"designer"
+   },
+   {
+      "word":"army",
+      "definition":"a permanent organization of the military land forces of a nation or state",
+      "partOfSpeech":"noun",
+      "synonyms":"ground forces"
+   },
+   {
+      "word":"artist",
+      "definition":"a person whose creative work shows sensitivity and imagination",
+      "partOfSpeech":"noun",
+      "synonyms":"creative person"
+   },
+   {
+      "word":"assistant",
+      "definition":"a person who contributes to the fulfillment of a need or furtherance of an effort or purpose",
+      "partOfSpeech":"noun",
+      "synonyms":"helper/supporter"
+   },
+   {
+      "word":"athlete",
+      "definition":"a person trained to compete in sports",
+      "partOfSpeech":"noun",
+      "synonyms":"jock"
+   },
+   {
+      "word":"babysitter",
+      "definition":"a person engaged to care for children when the parents are not home",
+      "partOfSpeech":"noun",
+      "synonyms":"sitter"
+   },
+   {
+      "word":"banker",
+      "definition":"a financier who owns or is an executive in a bank",
+      "partOfSpeech":"noun",
+      "synonyms":"moneyman"
+   },
+   {
+      "word":"boss",
+      "definition":"a person who exercises control and makes decisions",
+      "partOfSpeech":"noun",
+      "synonyms":"leader"
+   },
+   {
+      "word":"break",
+      "definition":"a pause from doing something (as work)",
+      "partOfSpeech":"noun",
+      "synonyms":"time out"
+   },
+   {
+      "word":"butcher",
+      "definition":"a person who slaughters or dresses meat for market",
+      "partOfSpeech":"noun",
+      "synonyms":"slaughterer"
+   },
+   {
+      "word":"canteen",
+      "definition":"sells food and personal items to personnel at an institution or school or camp etc.",
+      "partOfSpeech":"Karbonhidrat: 23 gram",
+      "synonyms":"store/shop"
+   },
+   {
+      "word":"captain",
+      "definition":"an officer who is licensed to command a merchant ship",
+      "partOfSpeech":"noun",
+      "synonyms":"skipper"
+   },
+   {
+      "word":"career",
+      "definition":"the general progression of your working or professional life",
+      "partOfSpeech":"noun",
+      "synonyms":"life history"
+   },
+   {
+      "word":"chef",
+      "definition":"a professional cook",
+      "partOfSpeech":"noun",
+      "synonyms":"hasInstances:madam curie"
+   },
+   {
+      "word":"chemist",
+      "definition":"a scientist who specializes in chemistry",
+      "partOfSpeech":"Karbonhidrat: 23 gram",
+      "synonyms":"Protein: 1.1 gram"
+   },
+   {
+      "word":"Muz",
+      "definition":"77 Kilokalori",
+      "partOfSpeech":"Karbonhidrat: 23 gram",
+      "synonyms":"Protein: 1.1 gram"
+   },
+   {
+      "word":"cleaner",
+      "definition":"a preparation used in cleaning something",
+      "partOfSpeech":"noun",
+      "synonyms":"cleanser"
+   },
+   {
+      "word":"colleague",
+      "definition":"an associate that one works with",
+      "partOfSpeech":"noun",
+      "synonyms":"workfellow"
+   },
+   {
+      "word":"computer",
+      "definition":"a machine for performing calculations automatically",
+      "partOfSpeech":"noun",
+      "synonyms":"data processor"
+   },
+   {
+      "word":"conference",
+      "definition":"a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
+      "partOfSpeech":"noun",
+      "synonyms":"meeting"
+   },
+   {
+      "word":"crew",
+      "definition":"the men and women who man a vehicle (ship, aircraft, etc.)",
+      "partOfSpeech":"noun",
+      "synonyms":"squad/team"
+   },
+   {
+      "word":"cv",
+      "definition":"a summary of your academic and work history",
+      "partOfSpeech":"noun",
+      "synonyms":"curriculum vitae"
+   },
+   {
+      "word":"dancer",
+      "definition":"a performer who dances professionally",
+      "partOfSpeech":"noun",
+      "synonyms":" "
+   },
+   {
+      "word":"dentist",
+      "definition":"a person qualified to practice dentistry",
+      "partOfSpeech":"noun",
+      "synonyms":"tooth doctor"
+   },
+   {
+      "word":"department",
+      "definition":"a specialized division of a large organization",
+      "partOfSpeech":"noun",
+      "synonyms":"section"
+   },
+   {
+      "word":"detective",
+      "definition":"an investigator engaged or employed in obtaining information not easily available to the public",
+      "partOfSpeech":"noun",
+      "synonyms":"Sherlock Holmes"
+   },
+   {
+      "word":"diary",
+      "definition":"a daily written record of (usually personal) experiences and observations",
+      "partOfSpeech":"noun",
+      "synonyms":"journal"
+   },
+   {
+      "word":"director",
+      "definition":"the person who directs the making of a film",
+      "partOfSpeech":"noun",
+      "synonyms":"Quentin Tarantino"
+   },
+   {
+      "word":"diver",
+      "definition":"someone who works underwater",
+      "partOfSpeech":"noun",
+      "synonyms":"frogman"
+   },
+   {
+      "word":"doctor",
+      "definition":"a licensed medical practitioner",
+      "partOfSpeech":"noun",
+      "synonyms":"medico"
+   },
+   {
+      "word":"earn",
+      "definition":"obtain (money) in return for labour or services.",
+      "partOfSpeech":"verb",
+      "synonyms":"gain"
+   },
+   {
+      "word":"employee",
+      "definition":"a worker who is hired to perform a job",
+      "partOfSpeech":"noun",
+      "synonyms":"worker"
+   },
+   {
+      "word":"employer",
+      "definition":"a person or firm that employs workers",
+      "partOfSpeech":"noun",
+      "synonyms":"hirer"
+   },
+   {
+      "word":"employment",
+      "definition":"the act of giving someone a job",
+      "partOfSpeech":"noun",
+      "synonyms":"engagement"
+   },
+   {
+      "word":"engineer",
+      "definition":"a person who uses scientific knowledge to solve practical problems",
+      "partOfSpeech":"noun",
+      "synonyms":"applied scientist"
+   },
+   {
+      "word":"explorer",
+      "definition":"someone who travels into little known regions (especially for some scientific purpose)",
+      "partOfSpeech":"noun",
+      "synonyms":"adventurer"
+   },
+   {
+      "word":"factory",
+      "definition":"a plant consisting of one or more buildings with facilities for manufacturing",
+      "partOfSpeech":"noun",
+      "synonyms":"manufacturing plant"
+   },
+   {
+      "word":"farm",
+      "definition":"cultivate by growing, often involving improvements by means of agricultural techniques",
+      "partOfSpeech":"verb",
+      "synonyms":"inCategory:agriculture,farming,husbandry"
+   },
+   {
+      "word":"farmer",
+      "definition":"a person who operates a farm",
+      "partOfSpeech":"noun",
+      "synonyms":"husbandman"
+   },
+   {
+      "word":"fireman",
+      "definition":"a member of a fire department who tries to extinguish fires",
+      "partOfSpeech":"noun",
+      "synonyms":"firefighter"
+   },
+   {
+      "word":"guard",
+      "definition":"a person who keeps watch over something or someone",
+      "partOfSpeech":"noun",
+      "synonyms":"protector"
+   },
+   {
+      "word":"guest",
+      "definition":"a visitor to whom hospitality is extended",
+      "partOfSpeech":"noun",
+      "synonyms":"invitee"
+   },
+   {
+      "word":"guide",
+      "definition":"someone who can find paths through unexplored territory",
+      "partOfSpeech":"noun",
+      "synonyms":"pathfinder/scout"
+   },
+   {
+      "word":"company",
+      "definition":"an institution created to conduct business",
+      "partOfSpeech":"noun",
+      "synonyms":"establishment"
+   },
+   {
+      "word":"instructor",
+      "definition":"a person whose occupation is teaching",
+      "partOfSpeech":"noun",
+      "synonyms":"teacher"
+   },
+   {
+      "word":"job",
+      "definition":"a specific piece of work required to be done as a duty or for a specific fee",
+      "partOfSpeech":"noun",
+      "synonyms":"task/duty"
+   },
+   {
+      "word":"journalist",
+      "definition":"a writer for newspapers and magazines",
+      "partOfSpeech":"noun",
+      "synonyms":"gazetteer"
+   },
+   {
+      "word":"judge",
+      "definition":"a public officer appointed to decide cases in a law court",
+      "partOfSpeech":"noun",
+      "synonyms":"justice"
+   },
+   {
+      "word":"king",
+      "definition":"a male sovereign; ruler of a kingdom",
+      "partOfSpeech":"noun",
+      "synonyms":"rex"
+   },
+   {
+      "word":"laboratory",
+      "definition":"a building, part of a building, or other place equipped to conduct scientific experiments, tests, investigations, etc., or to manufacture chemicals, medicines, or the like.",
+      "partOfSpeech":"noun",
+      "synonyms":"testing ground"
+   },
+   {
+      "word":"lawyer",
+      "definition":"a professional person authorized to practice law; conducts lawsuits or gives legal advice",
+      "partOfSpeech":"noun",
+      "synonyms":"attorney"
+   },
+   {
+      "word":"letter",
+      "definition":"a written message addressed to a person or organization",
+      "partOfSpeech":"noun",
+      "synonyms":"missive"
+   },
+   {
+      "word":"manager",
+      "definition":"(sports) someone in charge of training an athlete or a team",
+      "partOfSpeech":"noun",
+      "synonyms":"coach/handler"
+   },
+   {
+      "word":"mechanic",
+      "definition":"someone whose occupation is repairing and maintaining automobiles",
+      "partOfSpeech":"noun",
+      "synonyms":"repairman/service man"
+   },
+   {
+      "word":"meeting",
+      "definition":"an assembly of people for a particular purpose, especially for formal discussion.",
+      "partOfSpeech":"noun",
+      "synonyms":"coming together"
+   },
+   {
+      "word":"message",
+      "definition":"what a communication that is about something is about",
+      "partOfSpeech":"noun",
+      "synonyms":"content/substance"
+   },
+   {
+      "word":"model",
+      "definition":"a person who poses for a photographer or painter or sculptor",
+      "partOfSpeech":"noun",
+      "synonyms":"poser"
+   },
+   {
+      "word":"musician",
+      "definition":"someone who plays a musical instrument (as a profession)",
+      "partOfSpeech":"noun",
+      "synonyms":"instrumentalist/performer"
+   },
+   {
+      "word":"novelist",
+      "definition":"one who writes novels",
+      "partOfSpeech":"noun",
+      "synonyms":"author/writer"
+   },
+   {
+      "word":"nurse",
+      "definition":"one skilled in caring for young children or the sick (usually under the supervision of a doctor)",
+      "partOfSpeech":"noun",
+      "synonyms":"Example:Florence Nightingale"
+   },
+   {
+      "word":"occupation",
+      "definition":"the principal activity in your life that you do to earn money",
+      "partOfSpeech":"noun",
+      "synonyms":"business/job/line of work"
+   },
+   {
+      "word":"officer",
+      "definition":"a person holding a position of authority, especially one with a commission, in the armed services, the mercantile marine, or on a passenger ship.",
+      "partOfSpeech":"noun",
+      "synonyms":"military officer"
+   },
+   {
+      "word":"idle",
+      "definition":"not having a job",
+      "partOfSpeech":"adjective",
+      "synonyms":"jobless/out of work"
+   },
+   {
+      "word":"owner",
+      "definition":"a person who owns something",
+      "partOfSpeech":"noun",
+      "synonyms":"possesor"
+   },
+   {
+      "word":"painter",
+      "definition":"an artist who paints pictures.",
+      "partOfSpeech":"noun",
+      "synonyms":"Example:Vincent van Gogh"
+   },
+   {
+      "word":"parttime",
+      "definition":"involving less than the standard or customary time for an activity",
+      "partOfSpeech":"adjective",
+      "synonyms":"half time job"
+   },
+   {
+      "word":"poet",
+      "definition":"a person possessing special powers of imagination or expression",
+      "partOfSpeech":"noun",
+      "synonyms":"William Shakespeare"
+   },
+   {
+      "word":"politician",
+      "definition":"a person who is professionally involved in politics, especially as a holder of an elected office.",
+      "partOfSpeech":"noun",
+      "synonyms":"Member of Parliament"
+   },
+   {
+      "word":"postman",
+      "definition":"a man who delivers the mail",
+      "partOfSpeech":"noun",
+      "synonyms":"mailman"
+   },
+   {
+      "word":"president",
+      "definition":"the elected head of a republic",
+      "partOfSpeech":"noun",
+      "synonyms":"Donald Trump"
+   },
+   {
+      "word":"profession",
+      "definition":"an occupation requiring special education (especially in the liberal arts or sciences)",
+      "partOfSpeech":"noun",
+      "synonyms":"Has types:journalism,architecture, politics, literature,  education,  engineering, learned profession"
+   },
+   {
+      "word":"professional",
+      "definition":"a person engaged in one of the learned professions",
+      "partOfSpeech":"noun",
+      "synonyms":"professional person"
+   },
+   {
+      "word":"company",
+      "definition":"an institution created to conduct business",
+      "partOfSpeech":"noun",
+      "synonyms":"establishment"
+   },
+   {
+      "word":"professor",
+      "definition":"a university academic of the highest rank; the holder of a university chair.",
+      "partOfSpeech":"noun",
+      "synonyms":"prof"
+   },
+   {
+      "word":"programmer",
+      "definition":"a person who designs and writes and tests computer programs",
+      "partOfSpeech":"noun",
+      "synonyms":"software engineer"
+   },
+   {
+      "word":"publisher",
+      "definition":"a firm in the publishing business",
+      "partOfSpeech":"noun",
+      "synonyms":"publishing house"
+   },
+   {
+      "word":"qualification",
+      "definition":"an ability, characteristic, or experience that makes you suitable for a particular job or activity",
+      "partOfSpeech":"noun",
+      "synonyms":" derivation:qualify "
+   },
+   {
+      "word":"queen",
+      "definition":"a female sovereign ruler",
+      "partOfSpeech":"noun",
+      "synonyms":"II. Elizabeth"
+   },
+   {
+      "word":"quit",
+      "definition":"put an end to a state or an activity",
+      "partOfSpeech":"verb",
+      "synonyms":"cease/stop/give up"
+   },
+   {
+      "word":"receptionist",
+      "definition":"a secretary whose main duty is to answer the telephone and receive visitors(Especially works in hotel)",
+      "partOfSpeech":"noun",
+      "synonyms":"secretarial assistant"
+   },
+   {
+      "word":"reporter",
+      "definition":"a person who investigates and reports or edits news stories",
+      "partOfSpeech":"noun",
+      "synonyms":"newsman newsperson"
+   },
+   {
+      "word":"retire",
+      "definition":"leave one's job and cease to work, typically on reaching the normal age for leaving service.",
+      "partOfSpeech":"verb",
+      "synonyms":"step down/resign"
+   },
+   {
+      "word":"retirement",
+      "definition":"withdrawal for prayer and study and meditation/",
+      "partOfSpeech":"noun",
+      "synonyms":"the state of being retired from one's business or occupation"
+   },
+   {
+      "word":"sailor",
+      "definition":"any member of a ship's crew",
+      "partOfSpeech":"noun",
+      "synonyms":"crewman"
+   },
+   {
+      "word":"salary",
+      "definition":"a fixed regular payment, typically paid on a monthly basis but often expressed as an annual sum, made by an employer to an employee, especially a professional or white-collar worker.",
+      "partOfSpeech":"noun",
+      "synonyms":"earning/wage"
+   },
+   {
+      "word":"scientist",
+      "definition":"a person with advanced knowledge of one or more sciences",
+      "partOfSpeech":"noun",
+      "synonyms":"Has types:biologist,chemist,geologist"
+   },
+   {
+      "word":"secretary",
+      "definition":"a person employed by an individual or in an office to assist with correspondence, make appointments, and carry out administrative tasks.",
+      "partOfSpeech":"noun",
+      "synonyms":"helper/assistant"
+   },
+   {
+      "word":"shopper",
+      "definition":"a person who is shopping.",
+      "partOfSpeech":"noun",
+      "synonyms":"customer"
+   },
+   {
+      "word":"singer",
+      "definition":"a person who sings",
+      "partOfSpeech":"noun",
+      "synonyms":"Tarkan"
+   },
+   {
+      "word":"solider",
+      "definition":"an enlisted man or woman who serves in an army",
+      "partOfSpeech":"noun",
+      "synonyms":"has Types:  paratrooper, peacekeeper,cavalryman,infantryman,janissary, pistoleer,color bearer"
+   },
+   {
+      "word":"staff",
+      "definition":"all the people employed by a particular organization.",
+      "partOfSpeech":"noun",
+      "synonyms":"employees"
+   },
+   {
+      "word":"student",
+      "definition":"a learner who is enrolled in an educational institution",
+      "partOfSpeech":"noun",
+      "synonyms":"pupil"
+   },
+   {
+      "word":"teacher",
+      "definition":"a person whose occupation is teaching",
+      "partOfSpeech":"noun",
+      "synonyms":"instructor"
+   },
+   {
+      "word":"trade",
+      "definition":"the action of buying and selling goods and services.",
+      "partOfSpeech":"noun",
+      "synonyms":"exchange (something) for something else, typically as a commercial transaction."
+   },
+   {
+      "word":"travelagent",
+      "definition":"someone who sells or arranges trips or tours for customers",
+      "partOfSpeech":"noun",
+      "synonyms":"Setur/Ets tour"
+   },
+   {
+      "word":"unemployed",
+      "definition":"(of a person) without a paid job but available to work.",
+      "partOfSpeech":"adjective",
+      "synonyms":"jobless"
+   },
+   {
+      "word":"uniform",
+      "definition":"the distinctive clothing worn by members of the same organization or body or by children attending certain schools.",
+      "partOfSpeech":"noun",
+      "synonyms":"derivation: uniformity"
+   },
+   {
+      "word":"wage",
+      "definition":"a fixed regular payment earned for work or services, typically paid on a daily or weekly basis.",
+      "partOfSpeech":"noun",
+      "synonyms":"salary/payment"
+   },
+   {
+      "word":"waiter",
+      "definition":"a person whose occupation is to serve at table (as in a restaurant)",
+      "partOfSpeech":"noun",
+      "synonyms":"server"
+   },
+   {
+      "word":"plumber",
+      "definition":"a person who fits and repairs the pipes, fittings, and other apparatus of water supply, sanitation, or heating systems.",
+      "partOfSpeech":"noun",
+      "synonyms":"Super Mario"
+   },
+   {
+      "word":"vet",
+      "definition":"a doctor who practices veterinary medicine",
+      "partOfSpeech":"noun",
+      "synonyms":"crewman"
+   },
+   {
+      "word":"interview",
+      "definition":"a meeting of people face to face, especially for consultation.",
+      "partOfSpeech":"noun",
+      "synonyms":"have a discussion with/have a dialogue with"
+   },
+   {
+      "word":"promotion",
+      "definition":"activity that supports or encourages a cause, venture, or aim.",
+      "partOfSpeech":"noun",
+      "synonyms":"encouragement/furtherance"
+   },
+   {
+      "word":"strike",
+      "definition":"a refusal to work organized by a body of employees as a form of protest, typically in an attempt to gain a concession or concessions from their employer.",
+      "partOfSpeech":"noun",
+      "synonyms":"work stoppage"
+   },
+   {
+      "word":"intern",
+      "definition":"A student or recent graduate who works for a period of time in order to gain practical experience.",
+      "partOfSpeech":"noun",
+      "synonyms":"medical intern"
+   }
 ]
